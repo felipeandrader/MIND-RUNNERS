@@ -34,7 +34,7 @@ O **MIND RUNNER** é um jogo de perguntas e respostas em estilo tabuleiro para d
 - **CMake**
 - **libcurl** e **cJSON**
 
-> No Ubuntu, instale com:
+> No Linux, instale com:
 ```bash
 sudo apt update
 sudo apt install cmake gcc libcurl4-openssl-dev libraylib-dev libcjson-dev
@@ -63,6 +63,13 @@ make
 | Selecionar resposta     | `Clique do mouse`     |
 | Avançar após resposta   | `Clique no botão`     |
 
+## 👨‍💻 Contribuição Pessoal
+
+Neste projeto, fui responsável principalmente por:
+- Sistema de pontuação
+- Algoritmo do ranking de players
+- Fluxo de telas
+- Design de telas
 
 
 ## 📜 Licença
@@ -70,9 +77,3 @@ make
 Este projeto é apenas para fins acadêmicos.
 
 ---
-
-## Autores
-- Antônio Laprovitera
-- Pedro Gusmão
-- Fernando Augusto
-- Felipe Andrade
